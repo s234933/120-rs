@@ -355,15 +355,14 @@ input, select, textarea {
 		transition-delay: 0.5s;
 		position: relative;
 		z-index: 1;
-		width: -moz-min-content;
-		width: -webkit-min-content;
-		width: -ms-min-content;
-		width: min-content;
+		width: 100%;
 		max-width: 100vw;
 		overflow-x: hidden;
 		-webkit-overflow-scrolling: touch;
 		padding: 5px;
 	}
+
+
 
 		#main .items {
 			display: -moz-flex;
