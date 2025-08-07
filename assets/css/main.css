@@ -359,7 +359,7 @@ input, select, textarea {
 		max-width: none;
 		overflow-x: hidden;
 		-webkit-overflow-scrolling: touch;
-		padding: 5px 0 2em 0;
+		padding: 5px;
 		background-color: white;
 	}
 
